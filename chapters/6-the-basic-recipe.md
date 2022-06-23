@@ -1,3 +1,5 @@
+# Capítulo 6: Receita Básica
+
 O hidromel mais simples de fazer, muitas vezes chamado de hidromel de exibição, ou hidromel tradicional, contém nada mais do que mel, água e fermento (e nutrientes, você precisa alimentar seu fermento!). Um exemplo seria o seguinte:
 
 ```

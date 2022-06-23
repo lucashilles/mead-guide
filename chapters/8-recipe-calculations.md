@@ -1,3 +1,5 @@
+# Capítulo 8: Cálculos da receita
+
 Agora você terá a lista básica necessária para começar a calcular quanto de cada ingrediente usar. O exemplo a seguir demonstra como fazer isso:
 
 1. Vou fazer um hidromel tradicional direto (às vezes chamado de 'show') com apenas mel.

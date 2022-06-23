@@ -1,3 +1,5 @@
+# Capítulo 7: Planejamento
+
 A primeira coisa a fazer antes de começar a comprar ingredientes é sentar e planejar seu hidromel. Esta é talvez a parte mais importante de todo o processo (além da necessidade de higienização cuidadosa – veja o [Capítulo 12](12-sanitation.md)), pois é aqui que você listará todos os ingredientes necessários para produzir um hidromel de qualidade. Antes de se apressar em seu novo hobby, pare um momento para considerar o que você está procurando fazer. Pense em que tipo de hidromel você imagina fazer. Se você correr antes de andar, pode descobrir que erra completamente o alvo, criando algo muito distante do que esperava, ou faz um gole intragável. As três perguntas mais importantes a se fazer são:
 
 - Que tipo de hidromel vou fazer?

@@ -1,3 +1,5 @@
+# Capítulo 5: Terminologia e Cálculos
+
 Antes de começar com as receitas propriamente ditas, é melhor ter uma lição rápida sobre a terminologia básica de fabricação de fermentados e os cálculos que você usará.
 
 **Gravidade Específica (S.G.):** Também conhecida como Gravidade Original – OG, é usada para determinar a quantidade de açúcar presente no mosto/hidromel. Quanto maior o SG, mais açúcar está presente. À medida que o fermento come o açúcar e produz álcool, o SG cai. Isso também é medido em Baumé e Brix (ver [Apêndice 6](../appendix/6-abv-brix-sg-charts.md) para a relação entre os três).

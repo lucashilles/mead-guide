@@ -1,3 +1,5 @@
+# Capítulo 11: Dia do Hidromel
+
 O dia da fermentação chegou, e agora você deve ter os ingredientes prontos, o fermento preparado, os nutrientes medidos, o equipamento preparado e um copo de hidromel à mão. Agora você está pronto para preparar seu hidromel.
 
 A primeira coisa a fazer é certificar-se de que a área em que você estará e os equipamentos que você usará estão prontos para uso. Isso significa limpar e higienizar o máximo possível para evitar infecções. O [Capítulo 12](12-sanitation.md) percorre os métodos a seguir para conseguir isso.

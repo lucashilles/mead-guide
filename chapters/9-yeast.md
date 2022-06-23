@@ -1,3 +1,5 @@
+# Capítulo 9: Levedura
+
 Um dos principais ingredientes do hidromel é o fermento. Ele não foi incluído no capítulo Ingredientes, pois este item em particular tem suas próprias variáveis únicas que exigem um pouco de reflexão adicional por parte do cervejeiro. Algumas receitas encontradas em livros ou online pedem um fermento específico, mas cabe ao cervejeiro decidir o que eles acham que funcionará melhor em seu hidromel (ou o que eles realmente podem colocar em suas mãos). A seguir estão algumas das variáveis a serem consideradas na seleção de leveduras:
 
 ## Dry or Liquid
