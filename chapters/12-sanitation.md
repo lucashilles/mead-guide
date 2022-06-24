@@ -43,7 +43,7 @@ Temperatura (°C) | Tempo (min.)
 66 | 2.8**
 68 | 1.0**
 
-** Extrapolated from logarithmic curve constructed from Townsend’s data.
+** Extrapolado da curva logarítmica construída a partir dos dados de Townsend.
 
 É claro que nem todos os equipamentos podem suportar esse tipo de calor, principalmente os plásticos, portanto, tenha cuidado ao decidir o que mergulhar na água quente. Eu pessoalmente fervi rolhas, câmaras de ar e basters de peru (usados para coletar amostras), mas não tubos de sifonamento, bastões de trasfega ou enchedores de garrafas.
 
