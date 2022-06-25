@@ -1,6 +1,8 @@
 # Projeto de tradução do livro de bolso "O guia NewBee para fazer hidromel"
 
-O conteúdo do livro está em arquivos markdown localizados na pasta `docs`, utilizando a ferramenta Docusaurus para gerar as páginas disponíveis em: https://lucashilles.github.io/mead-guide/
+O conteúdo do livro está em arquivos markdown localizados na pasta [`docs`](docs), utilizando a ferramenta Docusaurus para gerar as páginas disponíveis em: https://lucashilles.github.io/mead-guide/
+
+Livro base: [GotMead](https://gotmead.com/blog/making-mead/mead-newbee-guide/the-newbee-guide-to-making-mead/)
 
 -----
 ## Website
