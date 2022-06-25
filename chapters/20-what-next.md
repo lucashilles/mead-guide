@@ -1,0 +1,5 @@
+# Capítulo 20: E a Seguir?
+
+O processo básico de como fazer um hidromel já foi abordado e você provavelmente está se perguntando qual é o próximo passo. A resposta simples é continuar aprendendo. O fórum GotMead tem uma riqueza de informações de um grande grupo de pessoas que estão mais do que felizes em ajudar. Também é uma boa ideia pegar uma cópia do livro de Ken Schramm, The Compleat Meadmaker. Ken é um fabricante de hidromel extremamente experiente, e seu livro está repleto de informações úteis, tanto históricas quanto práticas.
+
+Por fim, lembre-se de que a prática leva à perfeição, portanto, não desanime se seu primeiro lote (ou lotes) não for exatamente o que você está procurando. Continue tentando e use sua imaginação para criar o que procura em um hidromel. Se não funcionar, você provavelmente terá criado algo agradável para beber de qualquer maneira, então não há perda real. E se você sonhar com alguma combinação bizarra de ingredientes que você não tem certeza se eles vão funcionar bem juntos, arrisque-se e veja no que vai dar.
