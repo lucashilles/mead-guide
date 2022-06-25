@@ -1,4 +1,4 @@
-Capítulo 2: Mel
+# Capítulo 2: Mel
 
 Deixe-me começar aqui fornecendo um conselho: quanto melhores os ingredientes, melhor o hidromel. Você pode fazer alguns hidromel muito bons usando mel de trevo processado e fermento de pão (confira a receita de laranja e especiarias antigas de Joe no [capítulo 6](6-the-basic-recipe.md)), mas os resultados serão, na melhor das hipóteses, medianos. Começar dessa maneira é barato e fácil, permitindo que você tenha um gostinho do que poderia ser, sem perder muito dinheiro caso o lote não dê certo. À medida que você começar a usar ingredientes melhores, notará que a qualidade do hidromel melhorará e poderá começar a formular receitas que são construídas em torno do próprio sabor único do mel.
 
