@@ -1,4 +1,4 @@
-# Capítulo 5: Terminologia e Cálculos
+# 5. Terminologia e Cálculos
 
 Antes de começar com as receitas propriamente ditas, é melhor ter uma lição rápida sobre a terminologia básica de fabricação de fermentados e os cálculos que você usará.
 

@@ -1,4 +1,4 @@
-# Capítulo 13: Preparação e Mistura
+# 13. Preparação e Mistura
 
 Os três métodos para misturar o mosto (o método de fervura, o método de pasteurização e o método sem calor) são todos aceitos e fáceis de concluir, portanto, depende inteiramente do indivíduo qual método usar. Cada um tem seus prós e contras, mas é importante ressaltar que nenhum é o caminho “certo”.
 

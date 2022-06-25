@@ -1,4 +1,4 @@
-# Capítulo 4: Equipamentos
+# 4. Equipamentos
 
 Ter o equipamento certo é um componente importante para facilitar sua fabricação de fermentados, permitindo resultados mais consistentes e evitando qualquer deterioração indesejada. Isso não significa que você absolutamente deva comprar os equipamentos listados abaixo, mas é aconselhável ter pelo menos o essencial.
 

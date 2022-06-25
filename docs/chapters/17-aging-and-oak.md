@@ -1,4 +1,4 @@
-# Capítulo 17: Envelhecimento e Carvalho
+# 17. Envelhecimento e Carvalho
 
 O hidromel é basicamente um vinho e, portanto, se beneficia de uma certa quantidade de envelhecimento. Isso não quer dizer que nenhum hidromel pode ser apreciado dentro de algumas semanas de fermentação (veja Joe’s Ancient Orange), mas mesmo esses hidromel vão melhorar se tiver um pouco de tempo para amadurecer. O envelhecimento permite que os sabores desejados se misturem e cheguem à frente, além de ter a vantagem de permitir que certos sabores indesejados “desligados” se dissipem.
 

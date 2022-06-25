@@ -1,4 +1,4 @@
-# Capítulo 16: Sifonamento
+# 16. Sifonamento
 
 A sifonagem é realmente uma parte muito importante da fabricação e, portanto, requer um pouco mais de atenção. É durante o sifonamento que as coisas podem dar terrivelmente erradas se não houver cuidado. Portanto, siga as diretrizes o mais próximo possível para evitar contaminar ou aerar seu hidromel.
 

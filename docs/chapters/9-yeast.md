@@ -1,8 +1,8 @@
-# Capítulo 9: Levedura
+# 9. Levedura
 
 Um dos principais ingredientes do hidromel é o fermento. Ele não foi incluído no capítulo Ingredientes, pois este item em particular tem suas próprias variáveis únicas que exigem um pouco de reflexão adicional por parte do cervejeiro. Algumas receitas encontradas em livros ou online pedem um fermento específico, mas cabe ao cervejeiro decidir o que eles acham que funcionará melhor em seu hidromel (ou o que eles realmente podem colocar em suas mãos). A seguir estão algumas das variáveis a serem consideradas na seleção de leveduras:
 
-## Dry or Liquid
+## Seca ou Liquida
 
 A variedade seca de fermento vem em embalagens de vários tamanhos que variam de 5 gramas a 80 gramas. As embalagens de papel alumínio são resistentes à umidade. Cada um contém um grande número de células de levedura, bem como uma pequena quantidade de nutrientes para ajudar a levedura a iniciar quando reidratada. Esta forma pode ser armazenada por um longo período de tempo, mas o número de células viáveis ​​diminui quanto mais tempo elas são mantidas. A viabilidade do fermento pode ser estendida se o pacote for armazenado na geladeira, mas qualquer coisa acima de um ano deve ser evitada. Pode ser possível ressuscitar um pacote antigo adicionando o pó a um fermento e vendo o que acontece, mas certifique-se de ter um segundo pacote de fermento novo à mão, caso o mais antigo se mostre inútil. Vários fabricantes recomendam que você aumente a quantidade de fermento vencido usado em uma certa porcentagem para o número de meses acima da data de validade. Cada fabricante de hidromel deve pesar o risco de usar levedura velha e desatualizada contra o investimento em ingredientes e decidir se arrisca esse investimento com um produto que pode não funcionar.
 

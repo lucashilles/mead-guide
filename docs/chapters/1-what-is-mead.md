@@ -1,4 +1,4 @@
-# Capítulo 1: O que é hidromel?
+# 1. O que é hidromel?
 
 O que é Hidromel? O hidromel é o produto da levedura que converte mel e água em álcool. A primeira pergunta geralmente é “Qual é o gosto?” Em sua forma básica, tem gosto das flores que as abelhas estavam polinizando; mas os constituintes do sabor do hidromel não param por aí. A levedura e os métodos de fermentação fornecem sabores completamente diferentes. Uma infinidade de aditivos que vão de frutas a especiarias raras também podem contribuir. Francamente, o hidromel pode ter gosto de qualquer coisa que você imaginar!
 

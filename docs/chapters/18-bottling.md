@@ -1,4 +1,4 @@
-# Capítulo 18: Engarrafamento
+# 18. Engarrafamento
 
 O engarrafamento é talvez uma das partes mais demoradas do processo de fabricação do hidromel. Existem muitas opções de como você pretende engarrafar, algumas exigindo um pouco mais de equipamento, mas nenhuma delas é particularmente difícil. Exemplos de opções de engarrafamento são:
 

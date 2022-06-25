@@ -1,4 +1,4 @@
-# Capítulo 11: Dia do Hidromel
+# 11. Dia do Hidromel
 
 O dia da fermentação chegou, e agora você deve ter os ingredientes prontos, o fermento preparado, os nutrientes medidos, o equipamento preparado e um copo de hidromel à mão. Agora você está pronto para preparar seu hidromel.
 

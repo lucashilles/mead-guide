@@ -1,4 +1,4 @@
-# Capítulo 14: No Fermentador
+# 14. No Fermentador
 
 Neste ponto, você deve ter o seguinte pronto para ir:
 

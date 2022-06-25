@@ -1,4 +1,4 @@
-# Capítulo 20: E a Seguir?
+# 20. E a Seguir?
 
 O processo básico de como fazer um hidromel já foi abordado e você provavelmente está se perguntando qual é o próximo passo. A resposta simples é continuar aprendendo. O fórum GotMead tem uma riqueza de informações de um grande grupo de pessoas que estão mais do que felizes em ajudar. Também é uma boa ideia pegar uma cópia do livro de Ken Schramm, The Compleat Meadmaker. Ken é um fabricante de hidromel extremamente experiente, e seu livro está repleto de informações úteis, tanto históricas quanto práticas.
 

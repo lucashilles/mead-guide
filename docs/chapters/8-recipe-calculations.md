@@ -1,4 +1,4 @@
-# Capítulo 8: Cálculos da receita
+# 8. Cálculos da receita
 
 Agora você terá a lista básica necessária para começar a calcular quanto de cada ingrediente usar. O exemplo a seguir demonstra como fazer isso:
 

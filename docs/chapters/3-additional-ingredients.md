@@ -1,4 +1,4 @@
-# Capítulo 3: Ingredientes Adicionais
+# 3. Ingredientes Adicionais
 
 Como mencionado anteriormente, não há uma regra definida para o que você pode e não pode colocar no hidromel para adicionar sabor. Portanto, em vez de criar uma lista de ingredientes em potencial, a seguir estão algumas regras gerais para os principais tipos de ingredientes que o ajudarão a evitar adicionar algo que possa estragar o sabor, ser perigoso para sua saúde ou talvez impedir completamente a fermentação. Observe que a regra mais importante a seguir é que, se você gosta do sabor de uma determinada fruta, vegetal ou tempero, experimente e veja o que acontece.
 

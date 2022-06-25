@@ -1,4 +1,4 @@
-# Capítulo 12: Higienização
+# 12. Higienização
 
 Provavelmente, o aspecto mais importante da fabricação de cerveja em casa é a higiene. Se você não está começando com um ambiente limpo, pode acabar preparando algumas misturas bastante desagradáveis. Uma das piores coisas que um cervejeiro caseiro tem que enfrentar é a perspectiva de despejar 19 litros de líquido intragável pelo ralo. Então, enquanto você se prepara para misturar seu primeiro lote, repita essas palavras várias vezes antes mesmo de tocar em seus ingredientes: Higienize tudo!
 

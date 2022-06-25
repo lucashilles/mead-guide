@@ -1,4 +1,4 @@
-# Capítulo 15: Aeração, Fermentação e Trasfega
+# 15. Aeração, Fermentação e Trasfega
 
 O moste deve agora estar em um local fresco, aproximadamente 18-21°C, longe de qualquer luz. Alguma atividade deve ser perceptível dentro de algumas horas após a adição do fermento, mas isso pode demorar um pouco mais. Seja paciente. A levedura está passando pela fase de latência antes de iniciar sua fase de crescimento, portanto, muito pouco em termos de atividade pode ser observável. A título de lembrete do ciclo de vida da levedura:
 

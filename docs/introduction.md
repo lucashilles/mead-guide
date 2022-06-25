@@ -1,4 +1,10 @@
-![Cálice com hidromel vermelho](images/0-0.jpg)
+---
+sidebar_position: 1
+---
+
+# Introdução
+
+![Cálice com hidromel vermelho](img/0-0.jpg)
 
 > O Guia NewBee foi escrito em 2006 por Angus, então um membro muito ativo dos fóruns GotMead, e um novo, mas ávido, fabricante de hidromel. Angus desenvolveu várias receitas que ficaram incríveis, e o Guia NewBee foi seu presente muito gentil para a GotMead para ajudar outros novos fabricantes de hidromel a aprender nosso maravilhoso ofício.
 > 

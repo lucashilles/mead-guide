@@ -1,4 +1,4 @@
-# Capítulo 19: Solução de Problemas e Perguntas Comuns
+# 19. Solução de Problemas e Perguntas Comuns
 
 Em algum momento durante o processo, algo vai dar errado ou você não saberá o que fazer a seguir. Nas palavras imortais de Douglas Adams – **NÃO ENTRE EM PÂNICO!** Há duas maneiras de lidar com a situação. Primeiro, confira as respostas abaixo; segundo, vá para os fóruns.
 

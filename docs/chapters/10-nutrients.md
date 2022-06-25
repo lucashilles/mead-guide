@@ -1,4 +1,4 @@
-# Capítulo 10: Nutrientes
+# 10. Nutrientes
 
 Como acontece com qualquer organismo vivo, o fermento precisa ser alimentado para sobreviver. Infelizmente, o mel não tem muitos nutrientes, principalmente se for fervido. Cabe, portanto, ao cervejeiro garantir que a combinação certa de nutrientes seja adicionada ao mosto para garantir uma fermentação saudável. Se isso não for feito, o hidromel poderá apresentar vários resultados negativos, como fermentação parada e contaminação por sulfeto de hidrogênio (cheiro de ovo podre). Felizmente, é bastante fácil atender às necessidades nutricionais da levedura.
 
