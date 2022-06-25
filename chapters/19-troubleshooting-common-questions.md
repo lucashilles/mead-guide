@@ -1,0 +1,53 @@
+# Capítulo 19: Solução de Problemas e Perguntas Comuns
+
+Em algum momento durante o processo, algo vai dar errado ou você não saberá o que fazer a seguir. Nas palavras imortais de Douglas Adams – **NÃO ENTRE EM PÂNICO!** Há duas maneiras de lidar com a situação. Primeiro, confira as respostas abaixo; segundo, vá para os fóruns.
+
+Um ponto a fazer sobre os fóruns. Eles são enormes, o que significa que sua pergunta quase certamente foi feita e respondida. Antes de iniciar um novo tópico, faça uma pesquisa nas postagens. Você pode encontrar a resposta que procura. O botão de pesquisa é fácil de usar e mesmo que você não encontre a resposta exata, você lerá muitas informações excelentes que farão de você um melhor cervejeiro. Só então você deve iniciar um novo tópico.
+
+**"Minha fermentação está travada. Como faço para reiniciá-lo?"** – Esta é uma pergunta complicada, pois pode haver muitas razões pelas quais ele parou, cada um exigindo uma resposta diferente. As principais coisas a verificar são as seguintes:
+
+- Fermentou até o final? Em outras palavras, você está feito.
+- A temperatura está muito fria? Coloque-o em uma área mais quente.
+- Seu fermento atingiu seu limite ABV? Pegue outro que possa fermentar mais alto.
+- Você começou com muito mel (S.G. é muito alto)? Faça um iniciador.
+- Começou mesmo em primeiro lugar? Recoloque o fermento novo, o primeiro pode ter sido ruim.
+- Você usou um suco com sorbato? Confira a resposta abaixo.
+- Qual é o nível de acidez no mosto? Ajuste com adições de ácido ou base.
+
+A melhor coisa a fazer neste momento é pesquisar um pouco os fóruns e depois perguntar aos especialistas.
+
+**"Há um crescimento engraçado no hidromel. O fazer?"** - Coisas engraçadas flutuando no topo do hidromel ou sentadas no fundo nem sempre são motivo de alarme. Algumas leveduras gostam de se agrupar (flocular) e podem criar alguns crescimentos de aparência muito estranha. Há momentos em que algo mais encontrou seu caminho no hidromel, e isso pode ser muito destrutivo. Se você vir algo que não parece pertencer, experimente o hidromel para ver se o cheiro ou sabor está estranho. Se não houver nada que pareça errado para você, provavelmente é apenas fermento ou pedaços de frutas (se estiver fazendo um Melomel). Se houver um sabor ou cheiro estranho, coloque imediatamente o hidromel em um garrafão limpo, tomando o máximo cuidado possível para não perturbar o crescimento. Alguns sulfitos podem ser adicionados ao hidromel trasfegado se a fermentação tiver cessado, o que esperamos impedir que qualquer organismo indesejado cresça novamente.
+
+**"O hidromel tem um cheiro estranho"** – Esta é uma pergunta difícil de responder, pois definir o que é um cheiro estranho pode ser muito subjetivo. Para o cervejeiro inexperiente, os cheiros emitidos durante a fermentação podem parecer estranhos. Se o cheiro for particularmente pungente, pode haver algo errado. Em uma situação como essa, não há muito o que fazer, pois o que está causando o cheiro já está funcionando no hidromel. As coisas a tentar são colocar o hidromel em um garrafão limpo (veja a resposta para Crescimentos acima), jogar alguns sulfitos para impedir que qualquer coisa cresça (desde que a fermentação tenha atingido um ponto que você esteja satisfeito), colocando o fermentador em uma área mais fria (temperaturas acima da faixa do fermento podem fazer com que eles produzam ésteres indesejados), ou simplesmente deixando-o e esperando o melhor.
+
+**"Como faço para limpar o hidromel?"** – A primeira coisa a fazer, se puder, é bater o hidromel a frio. Isso significa colocá-lo em um ambiente frio (cerca de 3ºC) por uma semana. Isso geralmente deixa claro. Se isso não funcionar ou você não puder fazer isso, a próxima coisa mais fácil a fazer é usar um agente de afinação, como Polyclar, Bentonite ou Sparkolloid. Retire os Lees e deixe o hidromel descansar por algumas semanas após a limpeza para garantir que tudo caia antes do engarrafamento. Se cada um deles ainda falhar, incluindo uma combinação deles, você pode comprar um sistema de filtro e usar um filtro de 0,5 mícron para remover toda a matéria do hidromel.
+
+**"Eu usei suco com conservantes. E agora?"** – Usar um suco que foi dosado com sorbato ou algum outro conservante impedirá que seu fermento cresça e fermente. Provavelmente você está preso. O lote pode ser salvo, portanto, não se desespere. Confira no fórum tópicos sobre sucos com conservantes, que está cheio de sugestões para iniciar a fermentação.
+
+**"Quanto espaço é demais no topo do garrafão?"** – Depende do estágio em que está. Você quer ter certeza de que há espaço suficiente acima do hidromel em fermentação para permitir que o Krausen cresça. Isso é particularmente importante ao usar frutas, pois a polpa pode ser empurrada para dentro da câmara de ar e você tem um derramamento bagunçado.
+
+Uma vez concluída a fermentação, você quer o mínimo de espaço possível para evitar a oxidação. Se você tiver mais de 7,5 cm, tente colocar em um recipiente menor, embora não seja totalmente necessário, desde que você tenha certeza de que o hidromel está coberto de CO2, não importa o tamanho do espaço livre.
+
+**"Posso preencher o hidromel usando mosto extra?"** - Sim. Ao misturar o mosto, é possível transferir um pouco para um jarro higienizado antes de adicionar o fermento. Este jarro deve ser armazenado na geladeira, ou congelado, até que seja necessário para ajudar a preservá-lo. Se você precisar rechear seu hidromel depois de trasfega-lo, você pode despejar suavemente o mosto reservado, evitando qualquer respingo que adicionará oxigênio indesejado.
+
+**"Minha temperatura de fermentação está muito alta/baixa?"** – Verifique os limites de temperatura do fermento que você está usando. Se a área em que você está fermentando estiver fora desses limites, você deve fazer algumas alterações. Se estiver muito frio, mova-o para um local mais quente ou envolva-o em um cobertor aquecido (cuidado para não deixá-lo muito quente). Se estiver muito quente, mova-o para um local mais fresco ou enrole algumas toalhas molhadas ao redor para ajudar a esfriar.
+
+**"Como você volta a adoçar?"** – Uma vez que toda a fermentação cessou, você pode achar que o hidromel está muito seco para o seu gosto e você quer torná-lo mais doce. Para fazer isso, primeiro você precisa ter certeza de que o fermento acabou ou não será reiniciado quando você adicionar o mel. Use um filtro, tente os métodos de limpeza descritos acima ou dose o hidromel com sulfitos. Em seguida, pegue uma amostra medida do hidromel, uma xícara deve estar quase certa, e comece a misturar o mel lentamente, um pouco de cada vez, até atingir a doçura desejada. Calcule quanto hidromel você tem e multiplique a quantidade de mel para atingir a mesma doçura para o lote completo. Mexa cuidadosamente para evitar a oxidação e deixe descansar por alguns meses para garantir que a fermentação não seja reiniciada.
+
+**"Posso usar mel barato?"** – Claro, mas lembre-se de que seu produto final é tão bom quanto os ingredientes que você usa. Comece com mel mais barato enquanto você aprende, depois comece a usar algumas variedades melhores e "não processadas" para adicionar mais personalidade ao seu hidromel.
+
+**"Como você pode saber se ainda está fermentando?"** – Primeiro, veja se há alguma atividade na eclusa de ar. Mudanças muito lentas no nível da água podem ser causadas por variações de temperatura, portanto, não confie totalmente nisso. O melhor método é fazer leituras de gravidade com algumas semanas a um mês de intervalo. Se eles não mudarem durante esse período de tempo, a fermentação provavelmente está completa.
+
+**"Se a receita é para 1 letro, você multiplica tudo por 5 para fazer 5 litros?"** - Para a maior parte sim. No caso do fermento, geralmente não é necessário aumentar a quantidade lançada em 5. O pequeno pacote de fermento é suficiente para fermentar 1 litro até 5 litros, embora usar dois pacotes ajude a começar melhor. Além disso, a quantidade de tempo gasto na aeração permanecerá a mesma, independentemente do tamanho do lote que você estiver fazendo.
+
+**"Devo usar produtos químicos para interromper a fermentação ou não?"** - Este é com você. Muitas pessoas preferem não usar nenhum produto químico, principalmente porque algumas pessoas são alérgicas a eles. Se você tem medo de estar fazendo bombas de garrafa (garrafas pressurizadas por fermentação contínua que podem explodir – MUITO PERIGOSAS), use-as. Caso contrário, você pode filtrar com um filtro de 0,5 mícron, travar a frio ou apenas esperar muito tempo.
+
+**"Quando devo trasfegar?"** – A trasfega depende do que está acontecendo com o seu hidromel e do que você pretende alcançar. A trasfega geralmente é feita para retardar a fermentação, para tirar o hidromel das borras, para remover o hidromel de outros ingredientes, clarificar, etc. Portanto, você deve determinar quando deve trasfegar pela aparência e sabor do hidromel.
+
+**"Quanto tempo deve ser envelhecido?"** – Isso depende de cada cervejeiro. Alguns hidromel, particularmente os mais doces, parecem envelhecer mais rápido e podem ser apreciados mais cedo do que os mais secos. Mas, a quantidade de tempo que o hidromel deixa para envelhecer depende de como ele prova em um determinado momento. O tempo médio de envelhecimento do hidromel tende a ser em torno de 1 ano, embora quanto mais tempo for deixado, melhor geralmente fica. Seja paciente, experimente de vez em quando e beba quando achar que está pronto. Tente manter algumas garrafas para envelhecimento a longo prazo para ver o quão bom pode ficar.
+
+**"Posso destilar o hidromel?"** – Sim, mas não peça ajuda ao GotMead. Este é um site de hidromel, e não discutimos destilação, pois isso é ilegal nos Estados Unidos para cervejeiros caseiros. Para fazer isso, você deve ter uma licença e pagar impostos, portanto, não é algo em que o fórum se envolva.
+
+**"Posso reutilizar o fermento de um lote anterior?"** – Sim, mas não é muito aconselhável. Todas as leveduras, não importa quão bem tenham sido tratadas, sofrem um pouco de estresse durante o processo de fermentação e podem sofrer pequenas mutações. Isso fará com que eles possivelmente produzam ésteres ou outros compostos que podem tornar o sabor do seu hidromel engraçado. Como o fermento geralmente é muito barato, principalmente os secos, é melhor começar de novo a cada lote.
+
+[**Fóruns GotMead**](https://gotmead.com/community/)
