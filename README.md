@@ -1,4 +1,9 @@
-# Website
+# Projeto de tradução do livro de bolso "O guia NewBee para fazer hidromel"
+
+O conteúdo do livro está em arquivos markdown localizados na pasta `docs`, utilizando a ferramenta Docusaurus para gerar as páginas disponíveis em: https://lucashilles.github.io/mead-guide/
+
+-----
+## Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
